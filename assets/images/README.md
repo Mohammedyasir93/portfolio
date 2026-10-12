@@ -1,0 +1,1 @@
+Place portfolio, profile, or project images in this folder. Reference them with relative paths from `index.html` or `style.css`.
